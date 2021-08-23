@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JennS10/Guia2.git/static/css/main.af0861f4.chunk.css",
+    "main.js": "/JennS10/Guia2.git/static/js/main.8e4932c1.chunk.js",
+    "main.js.map": "/JennS10/Guia2.git/static/js/main.8e4932c1.chunk.js.map",
+    "runtime-main.js": "/JennS10/Guia2.git/static/js/runtime-main.71f2ac03.js",
+    "runtime-main.js.map": "/JennS10/Guia2.git/static/js/runtime-main.71f2ac03.js.map",
+    "static/js/2.ba58b071.chunk.js": "/JennS10/Guia2.git/static/js/2.ba58b071.chunk.js",
+    "static/js/2.ba58b071.chunk.js.map": "/JennS10/Guia2.git/static/js/2.ba58b071.chunk.js.map",
+    "static/js/3.f369550e.chunk.js": "/JennS10/Guia2.git/static/js/3.f369550e.chunk.js",
+    "static/js/3.f369550e.chunk.js.map": "/JennS10/Guia2.git/static/js/3.f369550e.chunk.js.map",
+    "index.html": "/JennS10/Guia2.git/index.html",
+    "static/css/main.af0861f4.chunk.css.map": "/JennS10/Guia2.git/static/css/main.af0861f4.chunk.css.map",
+    "static/js/2.ba58b071.chunk.js.LICENSE.txt": "/JennS10/Guia2.git/static/js/2.ba58b071.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71f2ac03.js",
+    "static/js/2.ba58b071.chunk.js",
+    "static/css/main.af0861f4.chunk.css",
+    "static/js/main.8e4932c1.chunk.js"
+  ]
+}
